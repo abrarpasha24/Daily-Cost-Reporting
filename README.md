@@ -1,7 +1,7 @@
 # EC2-Reporting
-Simple architecture to generate a daily report of the usage of EC2, EBS &amp; EIPs.
+Simple architecture to generate a daily cost report based on the usage of EC2, EBS &amp; EIPs.
 
-<h3>This AWS architecture focuses on generating a daily report which showcases the usage of three AWS services namely <b>EC2, EBS, EIP(Elastic IPs)</b></h3>
+<h3>This AWS architecture focuses on generating a daily cost report which showcases the usage of three AWS services namely <b>EC2, EBS, EIP(Elastic IPs)</b></h3>
 
 <h4>This is achived through a Cloudformation template which generates the following:</h4>
 <h5>-AWS Lambda Function: To compute the costs for the aforementioned resources</h5>
