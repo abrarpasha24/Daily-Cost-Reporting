@@ -40,7 +40,7 @@
         "AWSUsageLambdaFunction": {
             "Properties": {
                 "Code": {
-                    "S3Bucket": "awswithchetan.com",
+                    "S3Bucket": "awswithabrar.com",
                     "S3Key": "assets/cost-optimization/daily-usage-report.zip"
                 },
                 "Environment": {
